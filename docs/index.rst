@@ -43,7 +43,7 @@ OpenVINO™ Documentation
       
       <div style="clear:both;"> </div>
       <div class="HP_separator-header">
-         <p> Want to know more? </p>
+         <p> Want to know mordde? </p>
       </div>
       <div style="clear:both;"> </div>
       
@@ -80,7 +80,7 @@ OpenVINO™ Documentation
 	    <h3>Tune & Optimize </h3>
 	    <p> Use quantization, pruning, and sparsity algorithms to make your application as efficient as possible. </p> 
 	 </a>
-	 <a href="openvino_docs_performance_benchmarks.html" >
+	 <a href="openvino_docsвв_performance_benchmarks.html" >
 	    <h3>Performance<br /> Benchmarks </h3>
 	    <p> View performance benchmark results for various models on Intel platforms. </p>  
 	 </a>

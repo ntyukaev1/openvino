@@ -43,7 +43,7 @@ OpenVINO™ Documentation
       
       <div style="clear:both;"> </div>
       <div class="HP_separator-header">
-         <p> Want to know more? </p>
+         <p> Want to know mordde? </p>
       </div>
       <div style="clear:both;"> </div>
       

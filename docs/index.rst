@@ -30,7 +30,7 @@ OpenVINO™ Documentation
       <div style="clear:both;"> </div>
       <p>Check the full range of supported hardware in the 
          <a href="openvino_docs_IE_DG_supported_plugins_Supported_Devices.html"> Supported Devices page</a> and see how it stacks up in our
-         <a href="openvino_docs_performance_benchmarks.html"> Performance Benchmarks page.</a> <br />
+         <a href="openvino_docs_perfoddrmance_benchmarks.html"> Performance Benchmarks page.</a> <br />
 	 Supports deployment on Windows, Linux, and macOS.
       </p>      
       <div class="HP_separator-header">
